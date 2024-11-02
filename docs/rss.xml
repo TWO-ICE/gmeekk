@@ -1,2 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Meekdai.github.io/Gmeek-template</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Meekdai.github.io/Gmeek-template</link></image><lastBuildDate>Thu, 14 Mar 2024 09:17:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>请接着之后的安装步骤执行</title><link>https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</link><description>如果你点击了`READM.md`的链接后，看到了这个页面，请继续之后的安装步骤执行。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</guid><pubDate>Thu, 14 Mar 2024 09:15:10 +0000</pubDate></item><item><title>这是Gmeek模板仓库</title><link>https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</link><description>通过这个模板创建库，可以大大减少部署Gmeek博客的配置步骤。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</guid><pubDate>Wed, 20 Dec 2023 07:42:24 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://TWO-ICE.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://TWO-ICE.github.io</link></image><lastBuildDate>Sat, 02 Nov 2024 06:35:48 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Hexo 常用命令</title><link>https://TWO-ICE.github.io/post/Hexo%20-chang-yong-ming-ling.html</link><description>&gt; title: Hexo 常用命令&#13;
+&gt; date: 2023-12-02 10:55:20&#13;
+&gt; categories: []&#13;
+&gt; tags: []&#13;
+&gt; description: Hexo 常用命令&#13;
+&gt; photos:&#13;
+&gt;&#13;
+&gt; * https://wn.twoice.fun:1020//i/2023/12/02/hexo常用命令-2.png&#13;
+&#13;
+```&#13;
+hexo init&#13;
+用于初始化一个本地文件夹为网站的根目录&#13;
+&#13;
+hexo new&#13;
+$ hexo new title 新建一篇文章&#13;
+&#13;
+hexo generate&#13;
+可以简写成 hexo g 该命令用于生成静态文件&#13;
+&#13;
+hexo server&#13;
+$ hexo server 命令用于启动本地服务器，一般可以简写成 hexo s&#13;
+可以加一些参数&#13;
+-p    选项，指定服务器端口，默认为 4000&#13;
+-i    选项，指定服务器 IP 地址，默认为 0.0.0.0&#13;
+-s    选项，静态模式 ，仅提供 public 文件夹中的文件并禁用文件监视&#13;
+&#13;
+hexo deploy&#13;
+hexo d 命令用于部署网站，一般可以简写成&#13;
+&#13;
+hexo clean&#13;
+$ hexo clean 命令用于清理缓存文件，是一个比较常用的命令&#13;
+&#13;
+hexo --safe&#13;
+表示安全模式，用于禁用加载插件和脚本&#13;
+&#13;
+hexo --debug&#13;
+表示调试模式，用于将消息详细记录到终端和 debug.log 文件&#13;
+&#13;
+hexo --silent&#13;
+表示静默模式，用于静默输出到终端&#13;
+```。</description><guid isPermaLink="true">https://TWO-ICE.github.io/post/Hexo%20-chang-yong-ming-ling.html</guid><pubDate>Sat, 02 Nov 2024 06:35:24 +0000</pubDate></item></channel></rss>
