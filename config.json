@@ -19,7 +19,7 @@
     
     "themeMode":"fix",
     "dayTheme":"dark_tritanopia",
-    "nightTheme":"dark-blue", /*  dark dark_high_contrast dark_colorblind dark_tritanopia dark_dimmed */
+    "nightTheme":"dark-blue",
 
     "urlMode":"pinyin",
     "style":"",
