@@ -16,9 +16,11 @@
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
     "i18n":"CN",
     "UTC":8,
-    "themeMode":"manual",
-    "dayTheme":"light",
-    "nightTheme":"dark_colorblind",
+    
+    "themeMode":"fix",
+    "dayTheme":"dark",
+    "nightTheme":"dark-blue",
+
     "urlMode":"pinyin",
     "style":"",
     "script":"",
