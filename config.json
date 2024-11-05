@@ -23,9 +23,9 @@
 
     "allHead":"<script src='https://gmeek.ebeb.fun/bsz.js'></script>",
     "script":"<script src='https://gmeek.ebeb.fun/toc.js'></script>",
+    "style":"<script src='https://gmeek.ebeb.fun/style.css'></script>",
 
     "urlMode":"pinyin",
-    "style":"",
     "head":"",
     "indexStyle":"",
     "indexScript":"",
