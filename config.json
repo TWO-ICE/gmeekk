@@ -22,7 +22,7 @@
     "nightTheme":"dark-blue",
 
     "allHead":"<script src='https://gmeek.ebeb.fun/bsz.js'></script>",
-    "script":"<script src='https://gmeek.ebeb.fun/bsz.js'></script>",
+    "script":"<script src='https://gmeek.ebeb.fun/toc.js'></script>",
 
     "urlMode":"pinyin",
     "style":"",
