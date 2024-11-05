@@ -21,6 +21,8 @@
     "dayTheme":"dark_tritanopia",
     "nightTheme":"dark-blue",
 
+    "allHead":"<script src='https://gmeek.ebeb.fun/bsz.js'></script>",
+    
     "urlMode":"pinyin",
     "style":"",
     "script":"",
